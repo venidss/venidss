@@ -79,7 +79,7 @@ const bert = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=venidss&show_icons=true&count_private=true&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa&bg_color=0d1117&hide_border=true&rank_icon=github&card_width=420" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=venidss&show_icons=true&count_private=true&include_all_commits=false&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa&bg_color=0d1117&hide_border=true&rank_icon=github&card_width=420" height="165"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venidss&langs_count=8&layout=compact&title_color=a78bfa&text_color=c9d1d9&bg_color=0d1117&hide_border=true&custom_title=Top%20Languages&card_width=320" height="165"/>
 
@@ -89,7 +89,7 @@ const bert = {
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=venidss&bg_color=0d1117&color=a78bfa&line=a78bfa&point=f472b6&area=true&area_color=a78bfa15&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=venidss&bg_color=0d1117&color=a78bfa&line=a78bfa&point=f472b6&area=true&area_color=a78bfa15&hide_border=true&custom_title=2026%20Contribution%20Activity&from=2026-01-01" width="95%"/>
 
 </div>
 
@@ -110,9 +110,9 @@ const bert = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/venidss/venidss/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/venidss/venidss/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/venidss/venidss/output/github-contribution-grid-snake-dark.svg" width="95%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/venidss/venidss/output/ocean.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/venidss/venidss/output/ocean.gif" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/venidss/venidss/output/ocean.gif" width="95%" />
 </picture>
 
 </div>
