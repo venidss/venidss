@@ -20,18 +20,31 @@
 
 ## ◈ About Me
 
-```typescript
-const bert = {
-  pronouns    : "He / Him",
-  location    : "Cavite, Philippines 🇵🇭",
-  email       : "venidagilbert916@gmail.com",
-  role        : "Aspiring Full Stack Developer",
-  passion     : "Building modern, functional & user-friendly web apps",
-  tools       : ["VS Code", "Figma", "Git", "AI-assisted workflow"],
-  learning    : ["System Design", "DevOps", "Cloud Architecture"],
-  funFact     : "I use AI to accelerate learning — not to replace thinking 🤖",
-};
-```
+<table>
+  <tr>
+    <td valign="top" width="55%">
+
+I am an **aspiring software developer** passionate about building modern, functional, and user-friendly web applications.
+
+I enjoy exploring new technologies, creating real-world projects, and continuously improving my development skills through hands-on experience and self-driven learning.
+
+I also utilize **AI tools** to enhance my workflow and accelerate learning while maintaining a strong understanding of the code and technologies I use.
+
+    </td>
+    <td valign="top" width="45%">
+
+| | |
+|---|---|
+| 🌍 **Location** | Cavite, Philippines |
+| 📧 **Email** | venidagilbert916@gmail.com |
+| 💼 **Role** | Aspiring Full Stack Dev |
+| 🔭 **Focus** | Web · Backend · Cloud |
+| 🌱 **Learning** | System Design · DevOps |
+| ⚡ **Fun fact** | AI helps me think faster 🤖 |
+
+    </td>
+  </tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -65,11 +78,11 @@ const bert = {
 
 <p align="left">
   <a href="https://www.github.com/venidss" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-1e1b2e?style=for-the-badge&logo=github&logoColor=a78bfa" height="36"/>
+    <img src="https://img.shields.io/badge/GitHub-%40venidss-1e1b2e?style=for-the-badge&logo=github&logoColor=a78bfa" height="36"/>
   </a>
   &nbsp;
-  <a href="mailto:venidagilbert916@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-1e1b2e?style=for-the-badge&logo=gmail&logoColor=a78bfa" height="36"/>
+  <a href="mailto:venidagilbert916@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-venidagilbert916%40gmail.com-1e1b2e?style=for-the-badge&logo=gmail&logoColor=a78bfa" height="36"/>
   </a>
 </p>
 
