@@ -110,9 +110,9 @@ const bert = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/venidss/venidss/output/ocean.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/venidss/venidss/output/ocean.gif" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/venidss/venidss/output/ocean.gif" width="95%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/venidss/venidss/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/venidss/venidss/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/venidss/venidss/output/github-contribution-grid-snake-dark.svg" width="95%" />
 </picture>
 
 </div>
