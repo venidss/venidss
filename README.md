@@ -90,15 +90,14 @@ I also utilize **AI tools** to enhance my workflow and accelerate learning while
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=venidss&show_icons=true&count_private=true&include_all_commits=false&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa&bg_color=0d1117&hide_border=true&rank_icon=github" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venidss&langs_count=8&layout=compact&title_color=a78bfa&text_color=c9d1d9&bg_color=0d1117&hide_border=true&custom_title=Top%20Languages" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=venidss&background=0d1117&ring=a78bfa&fire=f472b6&currStreakNum=ffffff&currStreakLabel=a78bfa&sideNums=c9d1d9&sideLabels=6b7280&dates=6b7280&hide_border=true&stroke=0d1117" width="60%"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=venidss&background=0d1117&ring=a78bfa&fire=f472b6&currStreakNum=ffffff&currStreakLabel=a78bfa&sideNums=c9d1d9&sideLabels=6b7280&dates=6b7280&hide_border=true" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=venidss&bg_color=0d1117&color=a78bfa&line=a78bfa&point=f472b6&area=true&area_color=a78bfa20&hide_border=true&custom_title=Contribution%20Activity%202026&from=2026-01-01&radius=8" width="95%"/>
 
 </div>
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
