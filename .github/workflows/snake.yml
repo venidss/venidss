@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write        # ← This was missing — fixes exit code 128
+  contents: write
 
 jobs:
   generate:
@@ -18,6 +18,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=a78bfa&color_dots=#0d1117,#1e1b3a,#3b3066,#6d5fd4,#a78bfa
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
