@@ -30,7 +30,7 @@ I enjoy exploring new technologies, creating real-world projects, and continuous
 
 I also utilize **AI tools** to enhance my workflow and accelerate learning while maintaining a strong understanding of the code and technologies I use.
 
-    </td>
+  </td>
     <td valign="top" width="45%">
 
 | | |
@@ -42,7 +42,7 @@ I also utilize **AI tools** to enhance my workflow and accelerate learning while
 | 🌱 **Learning** | System Design · DevOps |
 | ⚡ **Fun fact** | AI helps me think faster 🤖 |
 
-    </td>
+  </td>
   </tr>
 </table>
 
@@ -52,23 +52,21 @@ I also utilize **AI tools** to enhance my workflow and accelerate learning while
 
 <div align="center">
 
-<p>
-  <a href="https://dart.dev/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="42" height="42" title="Dart"/></a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="42" height="42" title="JavaScript"/></a>&nbsp;&nbsp;
-  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="42" height="42" title="TypeScript"/></a>&nbsp;&nbsp;
-  <a href="https://www.php.net/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="42" height="42" title="PHP"/></a>&nbsp;&nbsp;
-  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="42" height="42" title="Python"/></a>&nbsp;&nbsp;
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="42" height="42" title="React"/></a>&nbsp;&nbsp;
-  <a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="42" height="42" title="Vue.js"/></a>&nbsp;&nbsp;
-  <a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="42" height="42" title="Next.js"/></a>&nbsp;&nbsp;
-  <a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="42" height="42" title="TailwindCSS"/></a>&nbsp;&nbsp;
-  <a href="https://nodejs.org/en/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="42" height="42" title="Node.js"/></a>&nbsp;&nbsp;
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="42" height="42" title="MongoDB"/></a>&nbsp;&nbsp;
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="42" height="42" title="MySQL"/></a>&nbsp;&nbsp;
-  <a href="https://firebase.google.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="42" height="42" title="Firebase"/></a>&nbsp;&nbsp;
-  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="42" height="42" title="Git"/></a>&nbsp;&nbsp;
-  <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="42" height="42" title="Figma"/></a>
-</p>
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -92,17 +90,23 @@ I also utilize **AI tools** to enhance my workflow and accelerate learning while
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=venidss&show_icons=true&count_private=true&include_all_commits=false&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa&bg_color=0d1117&hide_border=true&rank_icon=github&card_width=420" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venidss&langs_count=8&layout=compact&title_color=a78bfa&text_color=c9d1d9&bg_color=0d1117&hide_border=true&custom_title=Top%20Languages&card_width=320" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=venidss&theme=tokyonight" width="95%" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=venidss&background=0d1117&ring=a78bfa&fire=f472b6&currStreakNum=ffffff&currStreakLabel=a78bfa&sideNums=c9d1d9&sideLabels=6b7280&dates=6b7280&hide_border=true" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=venidss&theme=tokyonight" width="30%" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=venidss&theme=tokyonight" width="30%" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=venidss&theme=tokyonight" width="30%" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=venidss&bg_color=0d1117&color=a78bfa&line=a78bfa&point=f472b6&area=true&area_color=a78bfa15&hide_border=true&custom_title=2026%20Contribution%20Activity&from=2026-01-01" width="95%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=venidss&background=1a1b27&ring=a78bfa&fire=f472b6&currStreakNum=ffffff&currStreakLabel=a78bfa&sideNums=c9d1d9&sideLabels=6b7280&dates=6b7280&hide_border=true" height="165" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=venidss&bg_color=1a1b27&color=a78bfa&line=a78bfa&point=f472b6&area=true&area_color=a78bfa15&hide_border=true&custom_title=2026%20Contribution%20Activity&from=2026-01-01" width="95%"/>
 
 </div>
 
@@ -112,7 +116,7 @@ I also utilize **AI tools** to enhance my workflow and accelerate learning while
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=venidss&theme=onestar&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=venidss&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
 
 </div>
 
