@@ -9,8 +9,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=venidss&color=a78bfa&style=flat-square&label=Profile+Views)](https://github.com/venidss)
 &nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/venidss?label=Followers&style=flat-square&color=a78bfa&labelColor=1e1b2e&logo=github)](https://github.com/venidss)
-&nbsp;
-[![GitHub stars](https://img.shields.io/github/stars/venidss?label=Total+Stars&style=flat-square&color=a78bfa&labelColor=1e1b2e&logo=github)](https://github.com/venidss)
 
 </div>
 
